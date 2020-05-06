@@ -1,0 +1,5 @@
+eid: PUT_HERE
+pass: PUT_HERE
+semester_id: PUT_HERE (look at URL on UT registrat site)
+ignore: closed (something like closed or closed,waitlisted)
+class_ids: 51075,51080,51085 (you can have 1 or a million just have them by commas w/o spaces)
